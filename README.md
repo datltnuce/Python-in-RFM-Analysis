@@ -66,7 +66,6 @@ Customers are ranked numerically in each category, usually on a scale of 1 to 5,
 ---
 
 ## ⚒️ Main Process
-
 1️⃣ Data Cleaning & Preprocessing<br> 
 The first step is not simply about removing unwanted data but also involves correcting syntax and spelling errors, handling missing values, identifying and eliminating duplicate records, and normalizing data. Data validation and cleaning play a crucial role in ensuring data accuracy, improving data quality, and maintaining reliability.
 ```python
