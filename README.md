@@ -1,4 +1,4 @@
-# 📊 Project Title: RFM Analysis (RFM Analysis and Visualization for SuperStore - Global retail company) 
+# 📊 RFM Analysis (RFM Analysis and Visualization for SuperStore - Global retail company) 
 Author: Dat Le Tien  
 Date: 2025-02-15  
 Tools Used: Python  
