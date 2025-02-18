@@ -255,8 +255,14 @@ This is the largest group, dominating the distribution.<br>
 Customers in this group are considered loyal or bring the highest value to the business.
 
 **Summary:** <br>
-- The business has a large number of regular customers (20+ group) with very high purchase frequency, which is a positive sign. However, the number of customers in the 1-2 and 2-5 times groups is quite low. The business should consider strategies to convert customers with lower frequency (groups 1-2 and 2-5) into higher frequency groups (5-20 and 20+).<br>
-- Can implement promotional programs, customer care, or special offers to encourage more frequent shopping.
+The reason for dividing the bins this way is:
+
+- Helps identify potential customers and groups with the highest revenue potential.
+- Supports marketing strategies and loyalty programs based on purchasing frequency.
+
+The business has a large number of regular customers (20+ group) with very high purchase frequency, which is a positive sign. However, the number of customers in the 1-2 and 2-5 times groups is quite low. The business should consider strategies to convert customers with lower frequency (groups 1-2 and 2-5) into higher frequency groups (5-20 and 20+).<br>
+
+Can implement promotional programs, customer care, or special offers to encourage more frequent shopping.
 
 **3. Distribution throughout the time**
 ```python
